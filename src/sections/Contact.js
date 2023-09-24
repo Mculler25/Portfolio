@@ -8,7 +8,14 @@ export const Contact = () => {
       </header>
       <div className="text-center mt-10">
         <p className="text-white text-2xl m-4 tracking-wide">
-          <a href="https://www.linkedin.com/in/michael-culler/" className="hover:underline" >LinkedIn</a>
+          <a
+            href="https://www.linkedin.com/in/michael-culler/"
+            target="_blank"
+            rel="noreferrer"
+            className="hover:underline"
+          >
+            LinkedIn
+          </a>
         </p>
         <p className="text-white text-2xl m-4 tracking-wide">
           Email: mcullerwork@gmail.com
