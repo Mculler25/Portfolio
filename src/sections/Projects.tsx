@@ -1,4 +1,4 @@
-import React from "react";
+
 import restaurantRes from "../images/dashboard.png";
 import WeLoveMovies from "../images/WeLoveMovies.png";
 import Flashcard from "../images/Flashcard.png";

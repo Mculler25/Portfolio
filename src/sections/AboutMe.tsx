@@ -1,5 +1,4 @@
-import React from "react";
-import myimage from "../images/me.jpg";
+
 
 export const AboutMe = () => {
   return (

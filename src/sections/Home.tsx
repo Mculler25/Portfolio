@@ -1,12 +1,7 @@
-import React from "react";
+
 import myimage from "../images/me.jpg";
 
-// Passed down state to practice doing it
-type ImageProps = {
-  imageToDisplay: number;
-};
-
-export const Home = ({ imageToDisplay }: ImageProps) => {
+export const Home = () => {
   return (
     <main className="container mx-auto my-auto">
       <header>
