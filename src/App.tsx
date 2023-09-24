@@ -4,6 +4,7 @@ import { Nav } from './sections/Nav';
 import { Home } from './sections/Home';
 import { AboutMe } from './sections/AboutMe';
 import { Projects } from './sections/Projects';
+import { Contact } from './sections/Contact';
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
      <Home imageToDisplay={imageToDisplay}/>
      <AboutMe />
      <Projects />
+     <Contact />
     </main>
   );  
 }
